@@ -74,6 +74,15 @@
   </url>
   
   <url>
+    <loc>https://linweiyuan.github.io/about/index.html</loc>
+    
+    <lastmod>2024-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://linweiyuan.github.io/categories/index.html</loc>
     
     <lastmod>2024-05-02</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://linweiyuan.github.io/links/index.html</loc>
-    
-    <lastmod>2024-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://linweiyuan.github.io/about/index.html</loc>
     
     <lastmod>2024-05-02</lastmod>
     
