@@ -9,7 +9,7 @@
   <link href="https://linweiyuan.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, 林伟源</rights>
   <title>林伟源的技术博客</title>
-  <updated>2026-02-15T00:37:53.449Z</updated>
+  <updated>2026-02-16T00:36:06.798Z</updated>
   <entry>
     <author>
       <name>林伟源</name>
@@ -30,7 +30,7 @@
 <p>但是，我的 Steam 是安装在虚拟机 Wind]]>
     </summary>
     <title>Sunshine + Moonlight</title>
-    <updated>2026-02-15T00:37:53.449Z</updated>
+    <updated>2026-02-16T00:36:06.798Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +50,7 @@
 <figure class="highlight bash"><table><tr><td class="gu]]>
     </summary>
     <title>一次 polkit 包升级导致的滚挂问题</title>
-    <updated>2026-02-15T00:37:53.452Z</updated>
+    <updated>2026-02-16T00:36:06.801Z</updated>
   </entry>
   <entry>
     <author>
@@ -69,7 +69,7 @@
       <![CDATA[<p><a href="https://linweiyuan.github.io/2024/12/22/Arch-Linux-%E5%AE%89%E8%A3%85-Kubernetes-%E7%9A%84%E5%87%A0%E7%A7%8D%E5%A7%BF%E5%8A%BF.h]]>
     </summary>
     <title>连接本地 Kubernetes 服务的一种方式</title>
-    <updated>2026-02-15T00:37:53.478Z</updated>
+    <updated>2026-02-16T00:36:06.827Z</updated>
   </entry>
   <entry>
     <author>
@@ -89,7 +89,7 @@
 <h3 id="（可选）提高效率"><a href="#（可选）提高效率" class="headerlink"]]>
     </summary>
     <title>Arch Linux 安装 Kubernetes 的几种姿势</title>
-    <updated>2026-02-15T00:37:53.423Z</updated>
+    <updated>2026-02-16T00:36:06.772Z</updated>
   </entry>
   <entry>
     <author>
@@ -110,7 +110,7 @@
 <li>查看系统升级日志 <code>/var/log/pacman.log</code>，发现确实是相关的组件升级了个大版本 <code>[2024-10-06T22:22:37+0800] [ALPM] upgr]]>
     </summary>
     <title>Arch Linux 升级 picom 黑屏解决</title>
-    <updated>2026-02-15T00:37:53.423Z</updated>
+    <updated>2026-02-16T00:36:06.772Z</updated>
   </entry>
   <entry>
     <author>
@@ -131,7 +131,7 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</]]>
     </summary>
     <title>IDEA 社区版滚挂</title>
-    <updated>2026-02-15T00:37:53.428Z</updated>
+    <updated>2026-02-16T00:36:06.777Z</updated>
   </entry>
   <entry>
     <author>
@@ -153,7 +153,7 @@
 <li>安装 <code>ollama</code>，这里选择了 <c]]>
     </summary>
     <title>Ollama 测试</title>
-    <updated>2026-02-15T00:37:53.431Z</updated>
+    <updated>2026-02-16T00:36:06.780Z</updated>
   </entry>
   <entry>
     <author>
@@ -174,7 +174,7 @@
 <p><img src="/2024/07/20/%E5%8F%82%E5%8A%A0%E4%B8%80%E4%B]]>
     </summary>
     <title>参加一个 Rust 活动</title>
-    <updated>2026-02-15T00:37:53.453Z</updated>
+    <updated>2026-02-16T00:36:06.802Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,7 +195,7 @@
 <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br>]]>
     </summary>
     <title>QEMU/KVM 盗贼之海虚拟机检测绕过</title>
-    <updated>2026-02-15T00:37:53.447Z</updated>
+    <updated>2026-02-16T00:36:06.796Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +218,7 @@
 <p>因为这个查询除了其他可空条件外，有个必填的两个参数是开始时间和结束时间，而这个时间段，如果是当月（30]]>
     </summary>
     <title>一次使用 AWS 服务的心路历程</title>
-    <updated>2026-02-15T00:37:53.452Z</updated>
+    <updated>2026-02-16T00:36:06.801Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +237,7 @@
       <![CDATA[<p>官方简介：<a href="https://stability.ai/news/introducing-stable-code-instruct-3b">https://stability.ai/news/introducing-stable-code-instruct-3]]>
     </summary>
     <title>Stable Code Instruct 3B 本地部署</title>
-    <updated>2026-02-15T00:37:53.447Z</updated>
+    <updated>2026-02-16T00:36:06.796Z</updated>
   </entry>
   <entry>
     <author>
@@ -257,7 +257,7 @@
 <p>打开<code>chrome://flags</code>，将 <code>Chrome WebUI Re]]>
     </summary>
     <title>Chrome 新版 UI 回滚</title>
-    <updated>2026-02-15T00:37:53.427Z</updated>
+    <updated>2026-02-16T00:36:06.776Z</updated>
   </entry>
   <entry>
     <author>
@@ -278,7 +278,7 @@
 <p>可选：<a href="https://linweiyuan.github.io/2017/08/22/Arch-Linux%E5%BC%80%E5%90%AFBBR-%E9%87%8D%E5%90%AF%E4%B8%8D%E5%A]]>
     </summary>
     <title>Caddy + WebSocket + V2Ray</title>
-    <updated>2026-02-15T00:37:53.425Z</updated>
+    <updated>2026-02-16T00:36:06.774Z</updated>
   </entry>
   <entry>
     <author>
@@ -298,7 +298,7 @@
 <p>Arch Linux：6.6.4-arch1-1<br>Python：3.11.6<br>Nvidia：545.29.06<br>CUDA：12.3<br>GPU：NVIDIA GeForce RTX 3060 Ti<br>]]>
     </summary>
     <title>ChatGLM2-6B-INT4 本地部署</title>
-    <updated>2026-02-15T00:37:53.425Z</updated>
+    <updated>2026-02-16T00:36:06.774Z</updated>
   </entry>
   <entry>
     <author>
@@ -319,7 +319,7 @@
 <p>因]]>
     </summary>
     <title>QEMU下 Win10 硬盘动态扩容</title>
-    <updated>2026-02-15T00:37:53.447Z</updated>
+    <updated>2026-02-16T00:36:06.796Z</updated>
   </entry>
   <entry>
     <author>
@@ -337,7 +337,7 @@
       <![CDATA[<p>在前面显卡直通文章介绍过通过 KVM + QEMU 直通显卡使用 Windows 系统的场景，当一个系统安装好后，其实可以将原始硬盘 <code>win10.qcow2</code> 备份下来（类似 Ghost），这样当重装 Arch Linux 的时候，不用重新配置 Wi]]>
     </summary>
     <title>删除 Win10 的网络x</title>
-    <updated>2026-02-15T00:37:53.453Z</updated>
+    <updated>2026-02-16T00:36:06.802Z</updated>
   </entry>
   <entry>
     <author>
@@ -356,7 +356,7 @@
       <![CDATA[<p>比如我有两个相同的 U 盘要直通过去，如果通过 virt-manager 直接操作，会提示这个错误 <code>Unable to add device: XML error: Hostdev already exists in the domain configurati]]>
     </summary>
     <title>QEMU 多 USB 设备直通</title>
-    <updated>2026-02-15T00:37:53.447Z</updated>
+    <updated>2026-02-16T00:36:06.796Z</updated>
   </entry>
   <entry>
     <author>
@@ -375,7 +375,7 @@
       <![CDATA[<p>书接上回 <a href="https://linweiyuan.github.io/2022/11/25/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%98%BE%E5%8D%A1%E7%9B%B4%E9%80%9A-PCI-passthrough-via]]>
     </summary>
     <title>Arch Linux 多显卡切换配置</title>
-    <updated>2026-02-15T00:37:53.423Z</updated>
+    <updated>2026-02-16T00:36:06.772Z</updated>
   </entry>
   <entry>
     <author>
@@ -386,7 +386,7 @@
     <category term="ChatGPT" scheme="https://linweiyuan.github.io/tags/ChatGPT/"/>
     <category term="GPT-4" scheme="https://linweiyuan.github.io/tags/GPT-4/"/>
     <content>
-      <![CDATA[<h1 id="本篇文章已过期，仅供思路参考"><a href="#本篇文章已过期，仅供思路参考" class="headerlink" title="本篇文章已过期，仅供思路参考"></a>本篇文章已过期，仅供思路参考</h1><h1 id="20230626-早上"><a href="#20230626-早上" class="headerlink" title="20230626 早上"></a>20230626 早上</h1><p>以下逆向 JS 内容已过期，参考：<a href="https://github.com/acheong08/ChatGPT/issues/1431#issuecomment-1606145567">https://github.com/acheong08/ChatGPT/issues/1431#issuecomment-1606145567</a></p><p>有另一种简单的方法生成 <code>arkose_token</code>：<a href="https://github.com/linweiyuan/chatgpt-arkose-token-api">chatgpt-arkose-token-api</a></p><h1 id="20230626-下午"><a href="#20230626-下午" class="headerlink" title="20230626 下午"></a>20230626 下午</h1><p>当天，似乎上面的方法又失效了，所以还是先用回下面的方法</p><h1 id="20230626-夜里-20230627"><a href="#20230626-夜里-20230627" class="headerlink" title="20230626 夜里 - 20230627"></a>20230626 夜里 - 20230627</h1><p><code>arkose_token</code> 突然不检测了，但是还是先传着，保持和官网一样</p><h1 id="2023-06-28"><a href="#2023-06-28" class="headerlink" title="2023-06-28"></a>2023-06-28</h1><p>又开始检测了</p><h1 id="2023-07-08"><a href="#2023-07-08" class="headerlink" title="2023-07-08"></a>2023-07-08</h1><p><a href="https://github.com/linweiyuan/chatgpt-arkose-token-api">chatgpt-arkose-token-api</a> 复活，主要是借鉴了 <a href="https://github.com/xyhelper/xyhelper-arkose">xyhelper&#x2F;xyhelper-arkose</a></p><p>把 <code>html</code> 页面放在服务器上运行，不行，会弹验证码</p><p>但是单独起个服务跑 <code>html</code> 页面，又可以，莫名其妙</p><p>（我自己测试，如果服务器上开启了 <code>IPv6</code>，会拿不到 <code>token</code>，原因未知）</p><p>服务健康程度监控页面：<a href="https://stats.churchless.tech/">Health Status</a></p><h1 id="2023-07-27"><a href="#2023-07-27" class="headerlink" title="2023-07-27"></a>2023-07-27</h1><p>方法已失效，不折腾了</p><h1 id="2023-09-24"><a href="#2023-09-24" class="headerlink" title="2023-09-24"></a>2023-09-24</h1><p>更新视频，通过抓 har 包获取合法 token（这个方法已经存在很久了，但是最近比较忙，也基本弃坑了没用 GPT，所以鸽到现在更新）</p><h1 id="2023-10-02"><a href="#2023-10-02" class="headerlink" title="2023-10-02"></a>2023-10-02</h1><p>原来本来就有更加方便的方法，之前没有注意，现在更新，无需额外再跑一个 token 服务</p><hr><h1 id="GPT-4-403"><a href="#GPT-4-403" class="headerlink" title="GPT-4 403"></a>GPT-4 403</h1><p>GPT-4 对 <code>arkose_token</code> 的校验在最近几天里每天都改变很多次，有时早上提交代码，下午就失效，或者晚上提交，第二天失效</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/403.png"></p><p>通过不断的试错，把所有缺失的参数全部补上，但是最后还是 403 了</p><p>于是，打算从源头出发，学习一下 JS 的逆向（本人 JS 相对新手，但是曾经也写过）</p><h1 id="arkose-token-从何来"><a href="#arkose-token-从何来" class="headerlink" title="arkose_token 从何来"></a>arkose_token 从何来</h1><p>接口：<code>https://tcr9i.chat.openai.com/fc/gt2/public_key/35536E1E-65B4-4D96-9D97-6ADB7EFF8147</code></p><p>FormData:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">bda: ct + iv + s 的 base64 编码</span><br><span class="line">public_key: 35536E1E-65B4-4D96-9D97-6ADB7EFF8147</span><br><span class="line">site: https://chat.openai.com</span><br><span class="line">userbrowser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36</span><br><span class="line">capi_version: 1.5.2</span><br><span class="line">capi_mode: lightbox</span><br><span class="line">style_theme: default</span><br><span class="line">rnd: 随机数，小数点后有时 16 位，有时 17 位</span><br></pre></td></tr></table></figure><p>其他参数都是写死，并且之前不传也可以，最近必须要传，并且还要传对，不然 403</p><p>重点就是在 bda 参数里，里面的内容是加密的</p><h1 id="bda"><a href="#bda" class="headerlink" title="bda"></a>bda</h1><p>通过 F12，一步一步跟，发现了一些蛛丝马迹，最后调用的是这个方法来生成 bda 参数：<code>ALFCCJS.encrypt(bx, bv + bw)</code></p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/encrypt.png"></p><p>于是反推，如何生成 <code>bx</code>、<code>bv</code> 和 <code>bw</code></p><h1 id="bx"><a href="#bx" class="headerlink" title="bx"></a>bx</h1><p><code>bx</code> 依赖 <code>b5</code> 和 <code>bg</code></p><p><code>b5</code> 是一个数组，里面的东西大部分都是写死的，除了一个时间戳</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/b5.png"></p><p><code>bg</code> 写死的，本次测试不传也正常（未来可能有校验）</p><p>将 <code>b5</code> 数组转成字符串，就得到了 <code>bx</code></p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bx.png"></p><h1 id="bv"><a href="#bv" class="headerlink" title="bv"></a>bv</h1><p><code>bv</code> 没什么好说的，就是当前浏览器 <code>UA</code> 写死</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bv.png"></p><h1 id="bw"><a href="#bw" class="headerlink" title="bw"></a>bw</h1><p><code>bw</code> 不复杂，当前时间戳然后计算一下</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bw.png"></p><h1 id="200"><a href="#200" class="headerlink" title="200"></a>200</h1><p>最后执行加密方法，就能生成加密 <code>bda</code></p><p>如果提示 <code>ALFCCJS is not defined</code>，执行下面 JS 将其初始化 </p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> script = <span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&quot;script&quot;</span>);</span><br><span class="line">script.<span class="property">type</span> = <span class="string">&quot;text/javascript&quot;</span>;</span><br><span class="line">script.<span class="property">src</span> = <span class="string">&quot;https://tcr9i.chat.openai.com/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/funcaptcha_api.js&quot;</span>;</span><br><span class="line"><span class="variable language_">document</span>.<span class="property">head</span>.<span class="title function_">appendChild</span>(script);</span><br></pre></td></tr></table></figure><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bda.png"></p><p>再设置到参数里调用接口就能拿到 <code>arkose_token</code></p><p>GPT-4 就 200 了</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/200.png"></p><h1 id="视频（共三个）"><a href="#视频（共三个）" class="headerlink" title="视频（共三个）"></a>视频（共三个）</h1><p>一开始看错了 <code>bv</code> 成 <code>by</code>，但是字幕烧录进去了，懒得改了，其实是 <code>bx</code>, <code>bv</code>, <code>bw</code></p><div>  <video-js id="videojs-id-8cfabf97-a0ef-458b-89aa-f9baa873b8a4"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsid8cfabf97a0ef458b89aaf9baa873b8a4 = videojs('videojs-id-8cfabf97-a0ef-458b-89aa-f9baa873b8a4', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div> <hr><div>  <video-js id="videojs-id-ef1790ec-f0b4-4cc2-b212-e1ad52d8bb55"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token-new/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsidef1790ecf0b44cc2b212e1ad52d8bb55 = videojs('videojs-id-ef1790ec-f0b4-4cc2-b212-e1ad52d8bb55', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div> <hr><div>  <video-js id="videojs-id-a7d14b2f-b162-4a45-8850-53937bcd9204"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token-latest/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsida7d14b2fb1624a45885053937bcd9204 = videojs('videojs-id-a7d14b2f-b162-4a45-8850-53937bcd9204', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div>]]>
+      <![CDATA[<h1 id="本篇文章已过期，仅供思路参考"><a href="#本篇文章已过期，仅供思路参考" class="headerlink" title="本篇文章已过期，仅供思路参考"></a>本篇文章已过期，仅供思路参考</h1><h1 id="20230626-早上"><a href="#20230626-早上" class="headerlink" title="20230626 早上"></a>20230626 早上</h1><p>以下逆向 JS 内容已过期，参考：<a href="https://github.com/acheong08/ChatGPT/issues/1431#issuecomment-1606145567">https://github.com/acheong08/ChatGPT/issues/1431#issuecomment-1606145567</a></p><p>有另一种简单的方法生成 <code>arkose_token</code>：<a href="https://github.com/linweiyuan/chatgpt-arkose-token-api">chatgpt-arkose-token-api</a></p><h1 id="20230626-下午"><a href="#20230626-下午" class="headerlink" title="20230626 下午"></a>20230626 下午</h1><p>当天，似乎上面的方法又失效了，所以还是先用回下面的方法</p><h1 id="20230626-夜里-20230627"><a href="#20230626-夜里-20230627" class="headerlink" title="20230626 夜里 - 20230627"></a>20230626 夜里 - 20230627</h1><p><code>arkose_token</code> 突然不检测了，但是还是先传着，保持和官网一样</p><h1 id="2023-06-28"><a href="#2023-06-28" class="headerlink" title="2023-06-28"></a>2023-06-28</h1><p>又开始检测了</p><h1 id="2023-07-08"><a href="#2023-07-08" class="headerlink" title="2023-07-08"></a>2023-07-08</h1><p><a href="https://github.com/linweiyuan/chatgpt-arkose-token-api">chatgpt-arkose-token-api</a> 复活，主要是借鉴了 <a href="https://github.com/xyhelper/xyhelper-arkose">xyhelper&#x2F;xyhelper-arkose</a></p><p>把 <code>html</code> 页面放在服务器上运行，不行，会弹验证码</p><p>但是单独起个服务跑 <code>html</code> 页面，又可以，莫名其妙</p><p>（我自己测试，如果服务器上开启了 <code>IPv6</code>，会拿不到 <code>token</code>，原因未知）</p><p>服务健康程度监控页面：<a href="https://stats.churchless.tech/">Health Status</a></p><h1 id="2023-07-27"><a href="#2023-07-27" class="headerlink" title="2023-07-27"></a>2023-07-27</h1><p>方法已失效，不折腾了</p><h1 id="2023-09-24"><a href="#2023-09-24" class="headerlink" title="2023-09-24"></a>2023-09-24</h1><p>更新视频，通过抓 har 包获取合法 token（这个方法已经存在很久了，但是最近比较忙，也基本弃坑了没用 GPT，所以鸽到现在更新）</p><h1 id="2023-10-02"><a href="#2023-10-02" class="headerlink" title="2023-10-02"></a>2023-10-02</h1><p>原来本来就有更加方便的方法，之前没有注意，现在更新，无需额外再跑一个 token 服务</p><hr><h1 id="GPT-4-403"><a href="#GPT-4-403" class="headerlink" title="GPT-4 403"></a>GPT-4 403</h1><p>GPT-4 对 <code>arkose_token</code> 的校验在最近几天里每天都改变很多次，有时早上提交代码，下午就失效，或者晚上提交，第二天失效</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/403.png"></p><p>通过不断的试错，把所有缺失的参数全部补上，但是最后还是 403 了</p><p>于是，打算从源头出发，学习一下 JS 的逆向（本人 JS 相对新手，但是曾经也写过）</p><h1 id="arkose-token-从何来"><a href="#arkose-token-从何来" class="headerlink" title="arkose_token 从何来"></a>arkose_token 从何来</h1><p>接口：<code>https://tcr9i.chat.openai.com/fc/gt2/public_key/35536E1E-65B4-4D96-9D97-6ADB7EFF8147</code></p><p>FormData:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">bda: ct + iv + s 的 base64 编码</span><br><span class="line">public_key: 35536E1E-65B4-4D96-9D97-6ADB7EFF8147</span><br><span class="line">site: https://chat.openai.com</span><br><span class="line">userbrowser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36</span><br><span class="line">capi_version: 1.5.2</span><br><span class="line">capi_mode: lightbox</span><br><span class="line">style_theme: default</span><br><span class="line">rnd: 随机数，小数点后有时 16 位，有时 17 位</span><br></pre></td></tr></table></figure><p>其他参数都是写死，并且之前不传也可以，最近必须要传，并且还要传对，不然 403</p><p>重点就是在 bda 参数里，里面的内容是加密的</p><h1 id="bda"><a href="#bda" class="headerlink" title="bda"></a>bda</h1><p>通过 F12，一步一步跟，发现了一些蛛丝马迹，最后调用的是这个方法来生成 bda 参数：<code>ALFCCJS.encrypt(bx, bv + bw)</code></p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/encrypt.png"></p><p>于是反推，如何生成 <code>bx</code>、<code>bv</code> 和 <code>bw</code></p><h1 id="bx"><a href="#bx" class="headerlink" title="bx"></a>bx</h1><p><code>bx</code> 依赖 <code>b5</code> 和 <code>bg</code></p><p><code>b5</code> 是一个数组，里面的东西大部分都是写死的，除了一个时间戳</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/b5.png"></p><p><code>bg</code> 写死的，本次测试不传也正常（未来可能有校验）</p><p>将 <code>b5</code> 数组转成字符串，就得到了 <code>bx</code></p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bx.png"></p><h1 id="bv"><a href="#bv" class="headerlink" title="bv"></a>bv</h1><p><code>bv</code> 没什么好说的，就是当前浏览器 <code>UA</code> 写死</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bv.png"></p><h1 id="bw"><a href="#bw" class="headerlink" title="bw"></a>bw</h1><p><code>bw</code> 不复杂，当前时间戳然后计算一下</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bw.png"></p><h1 id="200"><a href="#200" class="headerlink" title="200"></a>200</h1><p>最后执行加密方法，就能生成加密 <code>bda</code></p><p>如果提示 <code>ALFCCJS is not defined</code>，执行下面 JS 将其初始化 </p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> script = <span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&quot;script&quot;</span>);</span><br><span class="line">script.<span class="property">type</span> = <span class="string">&quot;text/javascript&quot;</span>;</span><br><span class="line">script.<span class="property">src</span> = <span class="string">&quot;https://tcr9i.chat.openai.com/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/funcaptcha_api.js&quot;</span>;</span><br><span class="line"><span class="variable language_">document</span>.<span class="property">head</span>.<span class="title function_">appendChild</span>(script);</span><br></pre></td></tr></table></figure><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/bda.png"></p><p>再设置到参数里调用接口就能拿到 <code>arkose_token</code></p><p>GPT-4 就 200 了</p><p><img src="/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token/200.png"></p><h1 id="视频（共三个）"><a href="#视频（共三个）" class="headerlink" title="视频（共三个）"></a>视频（共三个）</h1><p>一开始看错了 <code>bv</code> 成 <code>by</code>，但是字幕烧录进去了，懒得改了，其实是 <code>bx</code>, <code>bv</code>, <code>bw</code></p><div>  <video-js id="videojs-id-1e833c10-df3b-41f2-ab8e-e7afb55a7aaf"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsid1e833c10df3b41f2ab8ee7afb55a7aaf = videojs('videojs-id-1e833c10-df3b-41f2-ab8e-e7afb55a7aaf', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div> <hr><div>  <video-js id="videojs-id-c3749102-68bc-4e1c-a95c-5cc790a6bd32"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token-new/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsidc374910268bc4e1ca95c5cc790a6bd32 = videojs('videojs-id-c3749102-68bc-4e1c-a95c-5cc790a6bd32', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div> <hr><div>  <video-js id="videojs-id-95b35b91-c2d2-40cd-83bf-d89c986e0d4e"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/how-to-generate-gpt-4-arkose-token-latest/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsid95b35b91c2d240cd83bfd89c986e0d4e = videojs('videojs-id-95b35b91-c2d2-40cd-83bf-d89c986e0d4e', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div>]]>
     </content>
     <id>https://linweiyuan.github.io/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token.html</id>
     <link href="https://linweiyuan.github.io/2023/06/24/%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-GPT-4-arkose-token.html"/>
@@ -395,7 +395,7 @@
       <![CDATA[<h1 id="本篇文章已过期，仅供思路参考"><a href="#本篇文章已过期，仅供思路参考" class="headerlink" title="本篇文章已过期，仅供思路参考"></a>本篇文章已过期，仅供思路参考</h1><h1 id="20230626-早上"><a h]]>
     </summary>
     <title>如何生成 GPT-4 arkose_token</title>
-    <updated>2026-02-15T00:37:53.463Z</updated>
+    <updated>2026-02-16T00:36:06.813Z</updated>
   </entry>
   <entry>
     <author>
@@ -406,7 +406,7 @@
     <category term="ChatGPT" scheme="https://linweiyuan.github.io/tags/ChatGPT/"/>
     <category term="HTTP Client" scheme="https://linweiyuan.github.io/tags/HTTP-Client/"/>
     <content>
-      <![CDATA[<p>接口调试</p><div>  <video-js id="videojs-id-a4de8402-95d0-49b2-80a8-b5c40539221b"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/http-client-debug-go-chatgpt-api/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsida4de840295d049b280a8b5c40539221b = videojs('videojs-id-a4de8402-95d0-49b2-80a8-b5c40539221b', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div>]]>
+      <![CDATA[<p>接口调试</p><div>  <video-js id="videojs-id-b0f56531-92a3-4ded-b5f7-e998d85779ee"     class="vjs-default-skin vjs-16-9"     controls     preload="auto"     width="100%"     height="350px">    <source src="/video/http-client-debug-go-chatgpt-api/index.m3u8" type="application&#x2F;x-mpegURL">  </video-js>      <script>    const videojsidb0f5653192a34dedb5f7e998d85779ee = videojs('videojs-id-b0f56531-92a3-4ded-b5f7-e998d85779ee', {      html5: {        hls: {          overrideNative: true        }      }    });  </script>  </div>]]>
     </content>
     <id>https://linweiyuan.github.io/2023/06/18/%E5%88%A9%E7%94%A8-HTTP-Client-%E6%9D%A5%E8%B0%83%E8%AF%95-go-chatgpt-api.html</id>
     <link href="https://linweiyuan.github.io/2023/06/18/%E5%88%A9%E7%94%A8-HTTP-Client-%E6%9D%A5%E8%B0%83%E8%AF%95-go-chatgpt-api.html"/>
@@ -414,11 +414,11 @@
     <summary>
       <![CDATA[<p>接口调试</p>
 <div>
-  <video-js id="videojs-id-a4de8402-95d0-49b2-80a8-b5c40539221b" 
+  <video-js id="videojs-id-b0f56531-92a3-4ded-b5f7-e998d85779ee" 
     class="vjs-default-skin vjs-16-9" 
     controls]]>
     </summary>
     <title>利用 HTTP Client 来调试 go-chatgpt-api</title>
-    <updated>2026-02-15T00:37:53.453Z</updated>
+    <updated>2026-02-16T00:36:06.802Z</updated>
   </entry>
 </feed>
